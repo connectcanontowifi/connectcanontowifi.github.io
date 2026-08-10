@@ -1,0 +1,8 @@
+{
+  "name": "Connect Canon to WiFi",
+  "short_name": "Canon WiFi",
+  "start_url": "/",
+  "display": "standalone",
+  "description": "Learn how to connect Canon printers to WiFi.",
+  "icons": []
+}
