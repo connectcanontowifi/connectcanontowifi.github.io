@@ -1,0 +1,17 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: printerdoc Docs
+  structure:
+    - type: section
+      key: section-1
+      title: Canon Printer Offline
+      path: canon-printer-offline
+      default: true
+      children:
+        - type: space
+          key: space-1
+          title: Canon Printer Offline
+          path: canon-printer-offline
+          default: true
+          content:
+            directory: ./canon-printer-offline
